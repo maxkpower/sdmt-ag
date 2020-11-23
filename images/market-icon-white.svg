@@ -1,0 +1,33 @@
+<svg id="_Icons_main_mining" data-name=" Icons / main / mining" xmlns="http://www.w3.org/2000/svg" width="75" height="60" viewBox="0 0 75 60">
+  <rect id="_Icons_main_mining_narket_making_background" data-name=" Icons / main / mining narket making background" width="75" height="60" fill="none"/>
+  <g id="Group_52" data-name="Group 52" transform="translate(1)">
+    <rect id="Rectangle" width="33.038" height="33.038" transform="translate(25.059)" fill="#616e6f" opacity="0.3"/>
+    <g id="Group_39" data-name="Group 39" transform="translate(0 3.282)">
+      <g id="Path_6" data-name="Path 6" opacity="0.4">
+        <path id="Path_6-2" data-name="Path 6" d="M0,0V49.5H51.974" transform="translate(0 0)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_6-3" data-name="Path 6" d="M0,0V49.5H51.974" transform="translate(0 0)" fill="none"/>
+      </g>
+      <path id="Path_6_Copy" data-name="Path 6 Copy" d="M0,.53H51.974" transform="translate(0 55.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+      <g id="Path_7" data-name="Path 7" opacity="0.4">
+        <path id="Path_7-2" data-name="Path 7" d="M0,23.581,15.337,9.435l9.546,6.99L42.444,0" transform="translate(5.877 15.315)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Path_7-3" data-name="Path 7" d="M0,23.581,15.337,9.435l9.546,6.99L42.444,0" transform="translate(5.877 15.315)" fill="none"/>
+      </g>
+      <g id="Oval">
+        <circle id="Oval-2" data-name="Oval" cx="2.652" cy="2.652" r="2.652" transform="translate(18.032 22.628)" fill="#213533" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Oval-3" data-name="Oval" cx="2.652" cy="2.652" r="2.652" transform="translate(18.032 22.628)" fill="none"/>
+      </g>
+      <g id="Oval_Copy_9" data-name="Oval Copy 9">
+        <circle id="Oval_Copy_9-2" data-name="Oval Copy 9" cx="2.652" cy="2.652" r="2.652" transform="translate(4.243 35.356)" fill="#213533" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Oval_Copy_9-3" data-name="Oval Copy 9" cx="2.652" cy="2.652" r="2.652" transform="translate(4.243 35.356)" fill="none"/>
+      </g>
+      <g id="Oval_Copy_8" data-name="Oval Copy 8">
+        <circle id="Oval_Copy_8-2" data-name="Oval Copy 8" cx="2.652" cy="2.652" r="2.652" transform="translate(27.578 27.932)" fill="#213533" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Oval_Copy_8-3" data-name="Oval Copy 8" cx="2.652" cy="2.652" r="2.652" transform="translate(27.578 27.932)" fill="none"/>
+      </g>
+      <g id="Path_8" data-name="Path 8">
+        <path id="Path_8-2" data-name="Path 8" d="M0,0H10.935V11.1" transform="translate(37.386 14.706)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Path_8-3" data-name="Path 8" d="M0,0H10.935V11.1" transform="translate(37.386 14.706)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="_Icons_" data-name=" Icons " transform="translate(0)">
+    <g id="Group" transform="translate(0 1)">
+      <g id="ok" transform="translate(0.618 1.853)">
+        <g id="Path">
+          <path id="Path-2" data-name="Path" d="M0,5.338l6.434,6.434L18.206,0" transform="translate(0 4.853)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path-3" data-name="Path" d="M0,5.338l6.434,6.434L18.206,0" transform="translate(0 4.853)" fill="none"/>
+        </g>
+        <g id="Path_Copy" data-name="Path Copy">
+          <path id="Path_Copy-2" data-name="Path Copy" d="M0,5.265,6.434,11.7l9.42-9.42L18.133,0" transform="translate(0 0.602)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="1.5"/>
+          <path id="Path_Copy-3" data-name="Path Copy" d="M0,5.265,6.434,11.7l9.42-9.42L18.133,0" transform="translate(0 0.602)" fill="none"/>
+        </g>
+      </g>
+      <path id="Rectangle" d="M0,5.559,6.176,0l6.176,5.559V21H0Z" fill="#616f6e" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

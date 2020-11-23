@@ -1,0 +1,33 @@
+<svg id="_Icons_" data-name=" Icons " xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="grid" transform="translate(1 1)">
+    <g id="Rectangle">
+      <rect id="Rectangle-2" data-name="Rectangle" width="7.778" height="7.778" rx="1" fill="#fff" stroke="#15414f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="7.778" height="7.778" rx="1" fill="none"/>
+    </g>
+    <g id="Rectangle_Copy" data-name="Rectangle Copy">
+      <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" width="7.778" height="7.778" rx="1" fill="#fff" stroke="#15414f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_Copy-3" data-name="Rectangle Copy" width="7.778" height="7.778" rx="1" fill="none"/>
+    </g>
+    <g id="Rectangle_Copy_2" data-name="Rectangle Copy 2">
+      <rect id="Rectangle_Copy_2-2" data-name="Rectangle Copy 2" width="7.778" height="7.778" rx="1" fill="#fff" stroke="#15414f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_Copy_2-3" data-name="Rectangle Copy 2" width="7.778" height="7.778" rx="1" fill="none"/>
+    </g>
+    <g id="Rectangle_Copy_3" data-name="Rectangle Copy 3">
+      <rect id="Rectangle_Copy_3-2" data-name="Rectangle Copy 3" width="7.778" height="7.778" rx="1" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_Copy_3-3" data-name="Rectangle Copy 3" width="7.778" height="7.778" rx="1" fill="none"/>
+    </g>
+    <g id="Rectangle-4" data-name="Rectangle">
+      <rect id="Rectangle-5" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(12.222)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle-6" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(12.222)" fill="none"/>
+    </g>
+    <g id="Rectangle-7" data-name="Rectangle">
+      <rect id="Rectangle-8" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(0 12.222)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle-9" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(0 12.222)" fill="none"/>
+    </g>
+    <g id="Rectangle-10" data-name="Rectangle">
+      <rect id="Rectangle-11" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(12.222 12.222)" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle-12" data-name="Rectangle" width="7.778" height="7.778" rx="1" transform="translate(12.222 12.222)" fill="none"/>
+    </g>
+    <rect id="Rectangle_Copy_3-4" data-name="Rectangle Copy 3" width="15.385" height="15.385" rx="1" transform="translate(2.308 2.308)" fill="#616f6e" opacity="0.3"/>
+  </g>
+</svg>

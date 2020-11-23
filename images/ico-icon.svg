@@ -1,0 +1,13 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group" transform="translate(1)">
+    <g id="Minimize">
+      <path id="Rectangle" d="M20.417,0V20.417H0Z" transform="translate(0.583)" fill="#616f6e" opacity="0.3"/>
+      <g id="Path">
+        <path id="Path-2" data-name="Path" d="M0,8.458,8.458,0" transform="translate(0 12.542)" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path-3" data-name="Path" d="M0,8.458,8.458,0" transform="translate(0 12.542)" fill="none"/>
+      </g>
+      <path id="Path-4" data-name="Path" d="M5.833,5.833H0V0" transform="translate(14 12.833) rotate(-180)" fill="#213533"/>
+      <path id="Path-5" data-name="Path" d="M5.833,5.833V0H0" transform="translate(2.917 12.25)" fill="#213533"/>
+    </g>
+  </g>
+</svg>

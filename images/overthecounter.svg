@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="80px" viewBox="0 0 82 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icns/feature/2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.409864982" width="71.5384615" height="71.5384615"></rect>
+    </defs>
+    <g id="icns/feature/2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#213533" x="0" y="0" width="82" height="80"></rect>
+        <g id="Group" transform="translate(0.000000, -36.000000)">
+            <g id="Group-4" transform="translate(78.000000, 36.000000) scale(-1, -1) translate(-78.000000, -36.000000) translate(42.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <circle id="Oval" fill="#616F6E" opacity="0.2" mask="url(#mask-2)" cx="66.5307692" cy="4.76153846" r="30.7615385"></circle>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 39.112229)" stroke="#FFFFFF">
+                <g id="Group-3-Copy-2" transform="translate(0.308504, 0.863777)">
+                    <g id="Group-5" transform="translate(14.316538, 13.401326)" stroke-dasharray="2">
+                        <path d="M17.8466437,0 L17.8466437,44.2243753" id="Path-2"></path>
+                        <path d="M37.5237124,10.6057565 L0,33.5033146" id="Path-2-Copy"></path>
+                        <path d="M37.5237124,10.6057565 L0,33.5033146" id="Path-2-Copy-5" transform="translate(18.761856, 22.054536) scale(-1, 1) translate(-18.761856, -22.054536) "></path>
+                    </g>
+                    <path d="M32.8332483,46.9046405 C39.1243941,46.9046405 44.2243753,41.8046592 44.2243753,35.5135135 C44.2243753,29.2223678 39.1243941,24.1223865 32.8332483,24.1223865 C31.1208647,24.1223865 29.496731,24.5002294 28.0396714,25.177091 C26.9067983,25.7033552 25.8749242,26.4103809 24.9810976,27.2611198 C22.8009774,29.3361454 21.4421214,32.2661405 21.4421214,35.5135135 C21.4421214,41.8046592 26.5421026,46.9046405 32.8332483,46.9046405 Z" id="Oval" stroke-width="1.5"></path>
+                    <circle id="Oval-Copy-7" stroke-width="0.5" fill-opacity="0.6" fill="#FFFFFF" cx="32.8332483" cy="35.5135135" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-8" stroke-width="0.5" fill="#FFFFFF" cx="32.8332483" cy="35.5135135" r="3"></circle>
+                    <circle id="Oval-Copy" stroke-width="1.5" cx="32.163182" cy="6.70066293" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-2" stroke-width="1.5" cx="32.163182" cy="64.3263641" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-3" fill-opacity="0.06" fill="#FFFFFF" cx="57.2007811" cy="49.5849057" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-4" fill-opacity="0.06" fill="#FFFFFF" cx="57.2007811" cy="21.4421214" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-5" fill-opacity="0.06" fill="#FFFFFF" cx="7.61587542" cy="21.4421214" r="6.70066293"></circle>
+                    <circle id="Oval-Copy-6" fill-opacity="0.06" fill="#FFFFFF" cx="7.61587542" cy="49.5849057" r="6.70066293"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

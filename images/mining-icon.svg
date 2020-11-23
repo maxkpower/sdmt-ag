@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.96" height="55.336" viewBox="0 0 57.96 55.336">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle" width="37.89" height="37.241" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_Icons_main_mining" data-name=" Icons / main / mining" transform="translate(0 20.336)">
+    <g id="Group" transform="translate(0.578 -20.336)">
+      <g id="Group_4" data-name="Group 4" transform="translate(57.381 37.241) rotate(-180)">
+        <rect id="Rectangle-2" data-name="Rectangle" width="37.89" height="37.241" fill="none"/>
+        <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path)">
+          <ellipse id="Oval" cx="16.293" cy="16.014" rx="16.293" ry="16.014" transform="translate(20.299 -15.079)" fill="#616f6e" opacity="0.2"/>
+        </g>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(0 21.409)">
+        <g id="Group_3_Copy_2" data-name="Group 3 Copy 2" transform="translate(0 0)">
+          <g id="Group_5" data-name="Group 5" transform="translate(6.335 6.226)">
+            <path id="Path_2" data-name="Path 2" d="M.311,0V20.547" transform="translate(8.125)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833" stroke-dasharray="1.167"/>
+            <path id="Path_2_Copy" data-name="Path 2 Copy" d="M17.738,0,0,10.638" transform="translate(0 4.927)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833" stroke-dasharray="1.167"/>
+            <path id="Path_2_Copy_5" data-name="Path 2 Copy 5" d="M-17.434,0,.3,10.638" transform="translate(17.434 4.927)" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833" stroke-dasharray="1.167"/>
+          </g>
+          <g id="Oval-2" data-name="Oval" transform="translate(9.703 11.207)">
+            <path id="Oval-3" data-name="Oval" d="M5.385,10.585a5.339,5.339,0,0,0,5.385-5.292A5.339,5.339,0,0,0,5.385,0,5.415,5.415,0,0,0,1.673,1.458,5.235,5.235,0,0,0,0,5.292,5.339,5.339,0,0,0,5.385,10.585Z" fill="#fafbfc" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <path id="Oval-4" data-name="Oval" d="M5.385,10.585a5.339,5.339,0,0,0,5.385-5.292A5.339,5.339,0,0,0,5.385,0,5.415,5.415,0,0,0,1.673,1.458,5.235,5.235,0,0,0,0,5.292,5.339,5.339,0,0,0,5.385,10.585Z" fill="none"/>
+          </g>
+          <g id="Oval_Copy_7" data-name="Oval Copy 7" transform="translate(11.92 13.387)">
+            <ellipse id="Oval_Copy_7-2" data-name="Oval Copy 7" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="#213533" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_7-3" data-name="Oval Copy 7" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_8" data-name="Oval Copy 8" transform="translate(13.67 15.106)">
+            <ellipse id="Oval_Copy_8-2" data-name="Oval Copy 8" cx="1.418" cy="1.394" rx="1.418" ry="1.394" fill="#213533" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_8-3" data-name="Oval Copy 8" cx="1.418" cy="1.394" rx="1.418" ry="1.394" fill="none"/>
+          </g>
+          <g id="Oval_Copy" data-name="Oval Copy" transform="translate(11.604)">
+            <ellipse id="Oval_Copy-2" data-name="Oval Copy" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="0.875"/>
+            <ellipse id="Oval_Copy-3" data-name="Oval Copy" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_2" data-name="Oval Copy 2" transform="translate(11.604 26.773)">
+            <ellipse id="Oval_Copy_2-2" data-name="Oval Copy 2" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none" stroke="#213533" stroke-miterlimit="10" stroke-width="0.875"/>
+            <ellipse id="Oval_Copy_2-3" data-name="Oval Copy 2" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_3" data-name="Oval Copy 3" transform="translate(23.439 19.924)">
+            <ellipse id="Oval_Copy_3-2" data-name="Oval Copy 3" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_3-3" data-name="Oval Copy 3" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_4" data-name="Oval Copy 4" transform="translate(23.439 6.849)">
+            <ellipse id="Oval_Copy_4-2" data-name="Oval Copy 4" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_4-3" data-name="Oval Copy 4" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_5" data-name="Oval Copy 5" transform="translate(0 6.849)">
+            <ellipse id="Oval_Copy_5-2" data-name="Oval Copy 5" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_5-3" data-name="Oval Copy 5" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+          <g id="Oval_Copy_6" data-name="Oval Copy 6" transform="translate(0 19.924)">
+            <ellipse id="Oval_Copy_6-2" data-name="Oval Copy 6" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="#fff" stroke="#213533" stroke-miterlimit="10" stroke-width="0.833"/>
+            <ellipse id="Oval_Copy_6-3" data-name="Oval Copy 6" cx="3.167" cy="3.113" rx="3.167" ry="3.113" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1210 @@
+
+@media (max-width: 1600px) {
+    .banner-inner {
+        padding: 50px 0;
+    }
+    .trading-mining ul {
+        margin-right: 0;
+    }
+    .banner-inner .title h1 {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    } 
+}
+@media (max-width: 1366px) {
+    .services-inner .services-left {
+        max-width: 470px;
+    }
+    .services-right {
+        width: calc(100% - 470px);
+    }
+    .services-right .text-box {
+        max-width: 350px;
+    }
+    .services-right .text-box h3 {
+        font-size: 40px;
+        line-height: 48px;
+        margin: 5px 0 10px;
+    }
+    .services-right .text-box p {
+        margin-bottom: 30px;
+    } 
+    .order-book-inner .text-box ul {
+        margin-top: 30px;
+    }
+    .liquidity-icos .order-book-inner .text-box ul {
+        margin-top: 30px;
+    }
+    .order-book-inner .text-box .text-inner h3{
+        margin-bottom: 20px;
+    }
+    .order-book-inner .text-box .text-inner p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .contactus-sec .text-box h1 {
+        font-size: 40px;
+        line-height: 45px;
+        margin-bottom: 10px;
+        max-width: 290px;
+    }
+    .contactus-sec .text-box form .form-group {
+        margin-bottom: 15px;
+    }
+    .contactus-sec .text-box form .form-group.d-flex {
+        margin-top: 50px;
+    }
+}
+@media (max-width: 1199px) {
+    .banner-inner {
+        padding: 100px 0;
+    }
+    .feature-inner .feature-left {
+        padding: 30px 0px 0 30px;
+        max-width: 450px;
+    }
+    .feature-inner .image-holder {
+        width: calc(100% - 450px);
+    }
+    .feature-left h3 {
+        padding: 15px 0;
+    }
+    .feature-left a{
+        margin-top: 30px;
+    }
+    .digital-asset-inner .image-holder {
+        max-width: 480px;
+        width: 100%;
+    }
+    .digital-asset-sec .feature-left {
+        width: calc(100% - 480px);
+        padding:  0 0 0 50px;
+    }
+    .services-inner .services-left {
+        max-width: 300px;
+    }
+    .services-right {
+        width: calc(100% - 300px);
+        top: 50px;
+        padding: 30px 0;
+    }
+    .services-right .text-box {
+        max-width: 300px;
+    }
+    .services-right .text-box img {
+        max-width: 45px; 
+    }
+    .services-right .text-box h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .services-right .text-box p{
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .services-right .text-box ul li {
+        min-width: 200px;
+        width: 100%;
+        margin-right: 20px;
+    }
+    .footer-detail {
+        padding-left: 50px;
+    }
+    .banner-blog {
+        padding: 20px 0 20px 20px;
+        margin-left: 10px; 
+    }
+    .banner-blog ul li {
+        margin-right: 15px;
+    }
+    .banner-blog .banner-blog-box .text-box {
+        padding-left: 15px;
+    }
+    .services-right .text-box a.btn-default {
+        margin-top: 15px;
+    }
+    .market-making-sec .title .title-inner h3 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .market-making-sec .title-box p {
+        font-size: 16px;
+        line-height: 26px;
+        color: #213533;
+        max-width: 260px;
+        margin-bottom: 20px;
+    }
+    .footer-bottom .footer-nav ul li {
+        margin: 0 10px;
+    }
+    .copyright p {
+        font-size: 11px;
+    }
+    .best-practice-top .text-box p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .generation-heading h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .generation-text {
+        padding-left: 0;
+    }
+    .interesting-future-inner .text-box h1 {
+        font-size: 52px;
+        line-height: 60px;
+        margin-bottom: 15px;
+    }
+    .interesting-future-inner .text-box span{
+        margin-bottom: 5px;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder {
+        margin-left: -130px;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder img {
+        object-fit: contain;
+        height: 450px;
+    }
+    .carousel-indicators {
+        max-width: 900px;
+    }
+    .product-cooling-box .text-box {
+        padding-left: 0;
+    }
+    .product-cooling-box .text-box h3 {
+        margin-bottom: 10px;
+    }
+    .product-cooling-box .text-box p {
+        margin-bottom: 15px;
+    }
+    .product-cooling-box .text-box ul li{
+        margin-bottom: 10px;
+    }
+    .cooling-setup .text-box h3 {
+        line-height: 38px;
+        font-size: 26px;
+    }
+    .cooling-setup .text-box.pl-170 {
+        padding-left: 0;
+    }
+    .cooling-setup .text-box.pl-145 {
+        padding-left: 0;
+    }
+    .order-book-inner .text-box {
+        max-width: 520px;
+        width: 100%;
+        padding-left: 30px;
+    }
+    .order-book-inner .image-holder {
+        width: calc(100% - 520px); 
+        right: 0;
+    }
+    .liquidity-icos .order-book-inner .image-holder {
+        width: calc(100% - 520px);
+        right: 0;
+        left: 0;
+    }
+    .contactus-sec .text-box{
+        margin: 0;
+    }
+}
+@media (max-width: 991px)  {
+    .navbar-light .navbar-toggler-icon{
+        background: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .navbar-light .navbar-toggler-icon span{
+        background-color: #F05234;
+        margin-bottom: 5px;
+        width: 30px;
+        height: 3px;
+        display: block;
+    }
+    .navbar-light .navbar-toggler-icon span:last-child{
+        margin-bottom: 0;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+        background-color: transparent;
+        border-radius: 0;
+        padding: 0;
+        width: 50px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .navbar-collapse{
+        background-color: #F05234;
+    }
+    .navigation .navbar-nav .nav-item {
+        margin: 0;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        padding: 10px;
+    }
+    .navigation .navbar-nav .nav-item:hover .sub-menu{
+        display: block;
+    }
+    .sub-menu{
+        opacity: 1;
+        visibility: visible;
+        position: static;
+        width: 100%;
+        left: 0;
+        display: none;
+        transform: translate(0);
+    }
+    .sub-menu ul li a{
+        padding: 10px;
+    }
+    .banner-inner .title h1 {
+        font-size: 60px;
+        line-height: 64px;
+    }
+    .banner-inner {
+        padding: 100px 0;
+    }
+    .trading-mining ul li {
+        margin-left: 20px;
+    }
+    .trading-mining .text-box span {
+        font-size: 12px;
+        width: 30px;
+        height: 30px; 
+    }
+    .trading-mining .text-box .text-box-inner {
+        padding-left: 10px;
+        width: calc(100% - 30px);
+    }
+    .trading-mining .text-box .text-box-inner p {
+        font-size: 14px;
+        line-height: 18px;
+        max-width: 130px;
+    }
+    .feature-inner .feature-left {
+        padding: 10px 0 0 0;
+        max-width: 350px;
+    }
+    .feature-inner .image-holder {
+        width: calc(100% - 350px);
+    }
+    .feature-left img{
+        max-width: 60px;
+    }
+    .feature-left h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .feature-left p {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: 280px;
+    }
+    .digital-asset-inner .image-holder {
+        max-width: 350px;
+    }
+    .digital-asset-sec .feature-left {
+        width: calc(100% - 350px);
+        padding: 0 0 0 30px;
+    }
+    .feature-left a {
+        margin-top: 20px;
+    }
+    .market-making-sec .title .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .services-inner .services-left {
+        max-width:  250px;
+        right: -10px;
+    }
+    .services-right {
+        width: calc(100% - 250px);
+        top: 30px;
+        margin-left: -10px;
+        padding: 20px 0;
+    }
+    .services-right .text-box ul li {
+        min-width: 180px;
+        margin-right: 10px;
+    }
+    .services-right .text-box ul li .exchange-box .text-inner h4 {
+        margin-bottom: 8px;
+    }
+    .services-right .text-box ul li .exchange-box .text-inner p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .footer-bottom .footer-nav ul li {
+        margin: 0 5px;
+    }
+    .footer-top .footer-drop h3 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 5px;
+    }
+    .footer-detail {
+        padding: 20px 0 20px 20px;
+    }
+    .footer-detail .footer-inner h3 {
+        margin-bottom: 15px;
+    }
+    .footer-detail .footer-inner p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .footer-detail .footer-inner ul li a {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .footer-detail .footer-inner {
+        max-width: 125px;
+        width: 100%;
+    } 
+    .footer-bottom .footer-nav ul li a{
+        font-size: 12px;
+    }
+    .banner-blog ul {
+        flex-wrap: wrap;
+    }
+    .banner-blog ul li {
+        margin-right: 0;
+        width: 50%;
+    }
+    .banner-blog .banner-blog-box .image-holder {
+        max-width: 110px;
+        width: 100%;
+    }
+    .banner-blog .banner-blog-box .text-box{
+        width: calc(100% - 110px);
+    }
+    .banner-blog .banner-blog-box .text-box h3 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .banner-blog .banner-blog-box .text-box p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .banner-blog ul li.blog-box {
+        margin: 20px 0 0 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .market-making-sec .title .title-inner h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .digital-asset-sec .feature-left h3 {
+        font-size: 26px;
+        color: #0B1C1A;
+        padding: 0 0 26px 0;
+        line-height: 38px;
+    }
+    .generation-heading h3 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .generation-text {
+        padding-left: 0;
+    }
+    .generation-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .generation-btn {
+        padding-left: 0;
+    }
+    .generation-btn a{
+        width: 100%;
+    }
+    .interesting-future-inner .text-box {
+        padding: 45px 0 82px 0;
+    }
+    .interesting-future-inner .text-box span{
+        margin-bottom: 5px;
+    }
+    .best-practice-top{
+        padding-left: 0;
+    }
+    .best-practice-top .text-box.text-box-second {
+        padding-left: 0;
+    }
+    .best-practice-top .text-box p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .best-practice-top .title h2 {
+        font-size: 60px;
+        line-height: 65px;
+    }
+    .best-practice-top .title {
+        margin-bottom: 50px;
+    }
+    .best-practice-sec {
+        padding: 50px 0 0 0;
+    }
+    .heart-ideology-sec {
+        padding: 50px 0;
+    }
+    .ideology-tittle h3 {
+        font-size: 30px;
+        line-height: 36px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .header{
+        padding: 40px 0;
+    } 
+    .carousel-indicators {
+        max-width: 690px;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder img {
+        object-fit: contain;
+        height: 350px;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder {
+        margin-left: -110px;
+    }
+    .product-cooling-sec {
+        padding: 50px 0;
+    }
+    .product-cooling-box .text-box h3{
+        font-size: 34px;
+        letter-spacing: 0;
+        margin-bottom: 10px;
+    }
+    .product-cooling-box .text-box p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .cooling-setup .text-box h3 {
+        line-height: 32px;
+        font-size: 20px;
+    }
+    .cooling-setup .text-box ul li {
+        font-size: 14px;
+        line-height: 22px;
+        padding-left: 14px;
+        margin-bottom: 10px;
+    }
+    .cooling-setup .text-box ul li:after{
+        top: 8px;
+    }
+    .second-header .navigation .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .order-book-sec {
+        padding: 100px 0 0 0;
+    }
+    .liquidity-icos{
+        padding-bottom: 100px;
+    }
+    .order-book-inner .text-box .text-inner h3 {
+        margin-bottom: 10px;
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .order-book-inner .text-box ul {
+        margin-top: 15px;
+    }
+    .order-book-inner .text-box ul li span{
+        margin-bottom: 10px;
+    }
+    .order-book-inner .text-box ul li p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .order-book-inner .text-box {
+        max-width: 400px;
+        padding-left: 0;
+        padding-right: 20px;
+    }
+    .order-book-inner .image-holder {
+        width: calc(100% - 400px); 
+    }
+    .liquidity-icos .order-book-inner .image-holder {
+        width: calc(100% - 400px); 
+    }
+    .liquidity-icos .order-book-inner .text-box{
+        padding-right: 0;
+        padding-left: 20px;
+    }
+    .making-liquidity-inner h3 {
+        font-size: 28px;
+        line-height: 40px;
+        padding: 30px 0;
+    }
+    .testimonial-inner{
+        padding: 30px 0;
+    }
+    .testimonial-inner .text-box p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .testimonial-last {
+        padding-top: 50px;
+        padding-left: 30px;
+    }
+    .contactus-sec .text-box {
+        margin: 0;
+        max-width: 100%;
+        padding: 50px 30px;
+    }
+    .contactus-sec .text-box form .form-group.d-flex{
+        margin-bottom: 0;
+    }
+}
+@media (max-width: 767px)  {
+    .header {
+        padding: 15px 0;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .banner-inner .title h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .banner-bottom {
+        flex-direction: column-reverse;
+    }
+    .banner-bottom .Scroll { 
+        margin: 55px 0 0 0;
+        position: relative;
+        top: -23px;
+    }
+    .banner-bottom .Scroll a:after {
+        left: 39px;
+        bottom: 8px;
+        width: 45px;
+        height: 1px;
+    }  
+    .trading-mining ul li {
+        margin-left: 0;
+    }
+    .feature-sec {
+        padding: 50px 0;
+    }
+    .feature-inner {
+        flex-direction: column;
+    }
+    .feature-inner .feature-left {
+        padding: 0;
+        max-width: 100%;
+    }
+    .feature-left p {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: 100%;
+    }
+    .feature-inner .image-holder {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .digital-asset-inner {
+        flex-direction: column-reverse;
+    }
+    .digital-asset-inner .image-holder {
+        max-width: 100%;
+    }
+    .digital-asset-sec .feature-left {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .market-making-sec {
+        padding: 0 0 50px 0;
+    }
+    .market-making-sec .title .title-inner h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-top: 10px;
+    }
+    .market-making-sec .title .text-box {
+        padding: 15px 0 0 0;
+    }
+    .market-inner .image-holder {
+        margin-top: 30px;
+    }
+
+    .services-sec {
+        padding: 50px 0;
+    }
+    .services-inner .services-left {
+        max-width: 100%;
+        right: 0;
+    }
+    .services-inner .services-left .image-holder img{
+        width: 100%;
+    }
+    .services-right {
+        width: 100%;
+        top: 0;
+        margin-left: 0;
+        padding: 40px 0;
+    }
+    .services-inner {
+        flex-direction: column-reverse;
+    }
+    .services-right {
+        width: 100%;
+        top: 0;
+        margin-left: 0;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .services-right .text-box {
+        max-width: 100%;
+    }  
+    .footer-sec {
+        padding: 50px 0;
+    }
+    .footer-top .footer-drop {
+        padding: 0;
+    }
+    .footer-detail {
+        padding: 30px 20px 20px 0;
+        border: none;
+    }
+    .footer-bottom {
+        padding: 0 0 0 0;
+    }
+    .copyright {
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+    .banner-inner .title p.title-text{
+        padding-right: 50px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .banner-blog {
+        padding: 10px;
+        margin-left: 0;
+        width: 100%;
+    }
+    .banner-bottom .Scroll {
+        margin: 85px 0 0 0;
+        position: relative;
+        top: -57px;
+    }
+    .banner-blog .banner-blog-box .image-holder {
+        max-width: 80px;
+        width: 100%;
+    }
+    .banner-blog .banner-blog-box .text-box {
+        width: calc(100% - 80px);
+        padding-left: 10px;
+    }
+    .banner-blog .banner-blog-box .text-box p {
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .services-right::after {
+        left: 10px;
+        top: 10px;
+    }
+    .market-making-sec .title {
+        padding: 0;
+    }
+    .market-making-sec .title-box p {
+        max-width: 100%;
+    }
+    .digital-asset-sec {
+        border-top: 0;
+        padding: 0 0 50px 0;
+    }
+    .generation-sec{
+        padding: 20px;
+        background-size: 70%;
+    }
+    .generation-heading h3 {
+        margin-bottom: 10px;
+    }
+    .generation-btn {
+        margin-top: 20px;
+    }
+    .interesting-future-inner .text-box h1 {
+        font-size: 40px;
+        line-height: 48px;
+        margin-bottom: 10px;
+    }
+    .interesting-future-inner .col-md-7 {
+        position: relative;
+    }
+    .interesting-future-inner .image-holder {
+        position: static;
+    }
+    .interesting-future-inner .text-box .Scroll {
+        margin: 40px auto 0;
+    }
+    .interesting-future-inner .text-box {
+        padding: 30px 0 82px 0;
+    }
+    .best-practice-top .title {
+        margin-bottom: 30px;
+    }
+    .best-practice-top .text-box{
+        margin-bottom: 30px;
+    }
+    .best-practice-top .text-box h4{
+        margin-bottom: 10px;
+    }
+    .best-practice-top .text-box p br{
+        display: none;
+    }
+    .best-practice-bottom {
+        margin-top: 20px;
+    }
+    .best-practice-box .image-holder {
+        padding-right: 30px;
+    }
+    .best-practice-box .text-box {
+        padding: 20px;
+        max-width: 280px;
+        margin-top: -82px;
+    }
+    .carousel-btn {
+        max-width: 300px;
+        margin-top: -35px;
+        padding-left: 0;
+    }
+    .ideology-tittle h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .ideology-text .text-box p {
+        font-size: 14px;
+        line-height: 20px;
+        max-width: 100%;
+    }
+    .second-page .wrapper {
+        padding: 70px 0 0 0;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder img {
+        object-fit: contain;
+        height: auto;
+    }
+    .next-gen-sec .interesting-future-inner .image-holder {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .interesting-future-inner .text-box h1 {
+        letter-spacing: 0; 
+        margin-left: 0;
+        padding-right: 0;
+    }
+    .next-gen-sec {
+        padding: 30px 0;
+    }
+    .next-gen-sec .interesting-future-inner {
+        padding-bottom: 30px;
+    }
+    .carousel-indicators {
+        max-width: 100%;
+        padding: 0 15px;
+        margin: 0;
+        justify-content: center;
+    }
+    .product-cooling-sec .nav {
+        padding-bottom: 50px;
+    }
+    .product-cooling-sec .nav .nav-item .nav-link.active:after {
+        width: 80px;
+    }
+    .product-cooling-box .text-box { 
+        padding: 30px 0 0 0;
+    }
+    .product-cooling-box .text-box p {
+        max-width: 100%;
+    }
+    .future-social-media{
+        padding-top: 30px;
+    }
+    .cooling-setup .text-box span{
+        margin-bottom: 10px;
+    }
+    .cooling-setup .text-box ul {
+        padding-top: 20px;
+    }
+    .cooling-setup .text-box ul li{
+        max-width: 100%;
+    }
+    .trading-mining {
+        width: 100%;
+    }
+    .trading-mining ul{
+        justify-content: space-between;
+    }
+    .making-liquidity-sec {
+        padding: 50px 0;
+    }
+    .making-liquidity-inner h3 br{
+        display: none;
+    }
+    .making-liquidity-inner h3 {
+        font-size: 22px;
+        line-height: 32px;
+        padding: 20px 0;
+    }
+    .making-liquidity-inner p {
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 100%;
+    }
+    .making-liquidity-inner strong {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 20px;
+        max-width: 100%;
+    }
+    .testimonial-inner {
+        padding: 20px;
+    }
+    .testimonial-user{
+        padding-top: 0;
+    }
+    .testimonial-user img {
+        margin-bottom: 15px;
+    }
+    .testimonial-inner .text-box p {
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 100%;
+        margin-top: 20px;
+    }
+    .testimonial-inner:after {
+        left: 10px;
+        top: 10px;
+    }
+    .testimonial-last {
+        padding-top: 20px;
+        padding-left: 0;
+    }
+    .order-book-sec {
+        padding: 50px 0 0 0;
+    }
+    .order-book-inner .text-box {
+        max-width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .order-book-inner .image-holder {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .order-book-inner {
+        flex-direction: column;
+    }
+    .order-book-inner .text-box .text-inner p{
+        max-width: 100%;
+    }
+    .liquidity-icos .order-book-inner {
+        flex-direction: column-reverse;
+    }
+    .liquidity-icos .order-book-inner .image-holder{
+        width: 100%;
+        margin: 50px 0;
+    }
+    .liquidity-icos .order-book-inner .text-box {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .contactus-sec .image-holder ul li {
+        margin-right: 15px;
+    }
+    .contactus-sec .image-holder ul {
+        max-width: 270px;
+        height: 60px;
+    }
+}
+@media (max-width: 575px)  {
+    body {
+        padding: 0 15px;
+    }
+    .header {
+        padding: 15px 0;
+    }
+    .banner-inner {
+        padding: 50px 0;
+    }
+    .banner-inner .title h1 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .social-media {
+        right: -60px;
+        top: 50%;
+    }
+    .social-media ul li {
+        margin: 0 15px;
+    }
+
+
+    .services-right .text-box h3 {
+        font-size: 22px;
+        line-height: 30px;
+    } 
+    .explore-btn{
+        margin-top: 40px;
+    } 
+    .banner-blog ul li {
+        margin-right: 0;
+        width: 100%;
+    }
+    .banner-blog .banner-blog-box .image-holder {
+        max-width: 100px;
+        width: 100%;
+    }
+    .banner-blog .banner-blog-box .text-box {
+        width: calc(100% - 100px);
+        padding-left: 15px;
+    }
+    .banner-blog ul li {
+        margin-bottom: 20px;
+    }
+    .banner-blog ul li.blog-box{
+        margin: 0;
+    }
+    .banner-blog .banner-blog-box .text-box p {
+        font-size: 12px;
+        line-height: 17px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .banner-blog .banner-blog-box .text-box p br{
+        display: none;
+    }
+    .trading-mining ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .trading-mining {
+        width: 100%;
+    }
+    .trading-mining ul li {
+        width: 50%;
+        margin-top: 30px;
+    }
+    .footer-bottom .footer-nav ul {
+        flex-wrap: wrap;
+    }
+    .footer-bottom .footer-nav ul li a{
+        padding: 5px 0;
+    }
+    .footer-bottom .footer-nav ul li {
+        margin: 0 20px;
+    }
+    .services-right .text-box ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .banner-blog .banner-blog-box .image-holder img{
+        height: auto;
+    }
+    .best-practice-box .text-box {
+        padding: 15px;
+        max-width: 240px; 
+    }
+    .product-cooling-sec .nav .nav-item {
+        padding: 0 5px;
+    }
+    .product-cooling-sec .nav {
+        margin: 0 -5px;
+    }
+    .product-cooling-sec .nav .nav-item .nav-link {
+        font-size: 11px;
+        padding: 5px 0;
+    }
+    .making-liquidity-inner h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .order-book-inner .text-box ul { 
+        flex-direction: column;
+    }
+    .order-book-inner .text-box ul li {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .order-book-inner .text-box ul li:last-child{
+        margin-bottom: 0;
+    }
+    .order-book-inner .text-box ul li p {
+        max-width: 100%;
+    }
+    .order-book-inner .text-box .text-inner h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .contactus-sec .text-box {
+        margin: 0;
+        max-width: 100%;
+        padding: 30px 15px;
+    }
+    .contactus-sec .text-box span{
+        margin-bottom: 10px;
+    }
+    .contactus-sec .text-box h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+@media (max-width: 479px)  {
+    .product-cooling-sec .nav .nav-item {
+        margin-bottom: 20px;
+        width: 50%;
+    }
+    .product-cooling-sec .nav {
+        padding-bottom: 30px;
+    }
+} 
+@media (max-width: 379px)  {
+    .banner-inner {
+        padding: 20px 0;
+    }
+    .banner-inner .title a {
+        width: 120px;
+        height: 30px;
+        font-size: 14px;
+    }
+    .banner-inner .title h1 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .banner-bottom .Scroll a:after {
+        width: 25px; 
+    }
+    .banner-bottom .Scroll {
+        margin: 65px 0 0 0;
+        position: relative;
+        top: -38px;
+    }
+    .footer-detail {
+        border: none;
+        padding: 30px 20px 0 0;
+        flex-direction: column;
+    }
+    .footer-detail .footer-inner {
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .footer-bottom .footer-nav ul li a{
+        padding: 5px;
+    }
+    .footer-bottom .footer-nav ul li {
+        margin:0;
+    }
+    .footer-logo {
+        padding: 0px 0 30px 0;
+        text-align: center;
+    }
+    .banner-inner .title h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .generation-sec {
+        padding: 15px;
+        background-size: inherit;
+    }
+    .generation-heading h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .digital-asset-sec .feature-left h3 {
+        font-size: 18px;
+        color: 
+            #0B1C1A;
+        padding: 0 0 18px 0;
+        line-height: 28px;
+    }
+    .banner-blog .banner-blog-box .image-holder {
+        max-width: 80px;
+        width: 100%;
+    }
+    .banner-blog .banner-blog-box .text-box{
+        width: calc(100% - 80px);
+    }
+    .interesting-future-inner .text-box h1 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 10px;
+    }
+    .interesting-future-inner .text-box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .interesting-future-inner .text-box {
+        padding: 30px 0 40px 0;
+    }
+    .interesting-future-inner .text-box .Scroll a:after {
+        left: 39px;
+        bottom: 9px;
+        width: 30px;
+        height: 1px;
+    }
+    .best-practice-top .title h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .best-practice-top .title {
+        margin-bottom: 20px;
+    }
+    .best-practice-box .image-holder {
+        padding-right: 0;
+    }
+    .best-practice-box .text-box {
+        max-width: 100%;
+        margin: 30px 0 0 0;
+    }
+    .carousel-btn {
+        max-width: 300px;
+        margin-top: 20px;
+        padding-left: 0;
+        justify-content: center;
+    }
+    .ideology-tittle h3 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 20px;
+        letter-spacing: 0;
+    }
+    .cooling-setup .text-box h3 {
+        line-height: 25px;
+        font-size: 18px;
+    }
+    .trading-mining ul li {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .trading-mining .text-box .text-box-inner p {
+        max-width: 100%;
+    }
+    .contactus-sec .text-box form .form-group.d-flex {
+        margin-top: 30px;
+        flex-direction: column;
+    }
+    .contactus-sec .text-box form .form-group a{
+        width: 100%;
+    }
+    .contactus-sec .text-box form .form-group p {
+        margin-left: 0;
+        text-align: center;
+        margin-top: 15px;
+        max-width: 100%;
+    }
+}
